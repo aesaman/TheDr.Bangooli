@@ -1,0 +1,44 @@
+{
+  "id": "https://aesaman.github.io/Pizzaa/",
+  "name": "رهگیر مطالعه کنکور",
+  "short_name": "مطالعه",
+  "description": "داشبورد آفلاین پیگیری مطالعه کنکور",
+  "start_url": "https://aesaman.github.io/Pizzaa/index.html",
+  "scope": "https://aesaman.github.io/Pizzaa/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "fa",
+  "dir": "rtl",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://aesaman.github.io/Pizzaa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://aesaman.github.io/Pizzaa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://aesaman.github.io/Pizzaa/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "version": "26.41"
+}
